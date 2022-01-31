@@ -28,6 +28,14 @@ ol, ul, li {
     color: #FFEE80;
 }
 
+ol {
+    font-size: large;
+}
+
+.destaque {
+    font-size: large;
+}
+
 a {
     font-family: Purisa, monospace, sans-serif;
     font-weight: bold;
