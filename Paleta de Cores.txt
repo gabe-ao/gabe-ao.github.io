@@ -1,0 +1,27 @@
+Paleta do Shades of Purple, por **AHMAD AWAIS**.
+Esta paleta está disponível como tema em diversos apps, como o VS Code e Google Chrome.
+
+USAGE	HEX CODES   NAME
+Background  #2D2B55 Space Cadet
+Background Dark #1E1E3F Space Cadet
+Foreground  #A599E9 Maximum Blue Purple
+Hover Background    #4D21FC Han Purple
+Contrast    #FAD000 Cyber Yellow
+Contrast Lite   #FFEE80 Yellow Cryola
+Contrast Lite II    #FAEFA5 
+Highlight   #FF7200 Pumpkin
+Comment #B362FF Medium Purple
+Constants   #FF628C Brink Pink
+Keywords    #FF9D00 Orange Peel
+Other   #9EFFFF Celeste
+Strings #A5FF90 Mint Green
+Templates   #3AD900 Lime Green
+Definitions #FB94FF Violet Web
+Invalid #EC3A37F5   
+Diff Added  #00FF009A   
+Diff Removed    #FF000D81   
+
+*!!* CREDITS: SHADES OF PURPLE BY AHMAD AWAIS.
+*!!* SOURCE URL: https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple
+*!!* CREATOR GITHUB: https://github.com/ahmadawais
+*!!* CREATOR LINKEDIN: https://www.linkedin.com/in/MrAhmadAwais/

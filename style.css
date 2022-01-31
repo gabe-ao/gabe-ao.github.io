@@ -1,0 +1,49 @@
+body {
+    background-color: #1E1E3F;
+}
+
+h1, h2, h2 a {
+    font-family: Ubuntu, monospace, sans-serif;
+    text-align: center;
+    color: #FAD000;
+    background-color: #2D2B55;
+    line-height: 1.2cm;
+}
+
+h3 {
+    font-family: Ubuntu, monospace, sans-serif;
+    text-align: justify;
+    color: #FFEE80;
+
+}
+
+p {
+    font-family: Purisa, monospace, sans-serif;
+    color: #A5FF90;
+    text-align: justify;
+}
+
+ol, ul, li {
+    font-family: Purisa, monospace, sans-serif;
+    color: #FFEE80;
+}
+
+a {
+    font-family: Purisa, monospace, sans-serif;
+    font-weight: bold;
+    color: #FFEE80;
+}
+
+strong, strong a {
+    font-family: Purisa, monospace, sans-serif;
+    color: #FF7200;
+}
+
+em {
+    font-family: Purisa, monospace, sans-serif;
+    color: #A599E9;
+}
+
+img {
+    border-radius: 100%;
+}
