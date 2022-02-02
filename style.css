@@ -1,5 +1,40 @@
 body {
     background-color: #1E1E3F;
+    padding: 3%;
+}
+
+#top-container {
+
+}
+
+#titulo-pagina {
+    text-align: center;
+    line-height: 1.7cm;
+}
+
+#foto-container {
+    height: 340px;
+    position: relative;
+    margin: 0%;
+}
+
+#minha-foto {
+    position: absolute;
+    float: top;
+    left: 30%;
+    padding: 10px;
+    background-color:#2D2B55;
+}
+
+#pfp-descricao {
+    position: absolute;
+    top: 92%;
+    left: 7%;
+    font-family: Purisa, monospace,sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 15px;
+    color:#FF7200;
 }
 
 h1, h2, h2 a {
